@@ -1,46 +1,43 @@
-# 👋 Hi, I'm Anderson Yeo
+# Anderson Yeo
+🎓  | BSc (Hons) Computer Science with Artificial Intelligence (2025) <br>
+📧  | @andersonsoonkai@gmail.com <br>
+📍  | Based in Nottingham, UK <br>
 
-🎓 **BSc (Hons) Computer Science with Artificial Intelligence** — University of Nottingham (2025)  
-📧 **Email:** [andersonsoonkai@gmail.com](mailto:andersonsoonkai@gmail.com)  
-📍 **Location:** Nottingham, UK  
+Welcome to my GitHub! See my repositories for my work from university, online courses and personal projects. <br>
+Languages and Technologies: <br>
 
----
+- Languages: Python, Java, SQL, Dart, C, PHP, HTML, CSS, Haskell, JavaScript
+- Frameworks: Flutter, React, Next.js, Tailwind CSS, Firebase, TensorFlow
+- ML libraries/ toolkits: pandas, NumPy, PyTorch, scikit-learn, Matplotlib, Transformers, NLTK, OpenCV
+- Tools & Platforms: Git, GitHub, Vercel, VS Code, Power BI, Excel, Tableau, PowerPoint
+- Databases: MySQL, Firebase 
 
-## 💡 About Me
-- Final-year Computer Science student specializing in **Full Stack Development**, **DevOps**, and **Cloud Computing**.
-- Passionate about integrating AI into practical applications.
-- Currently exploring **Web3** technologies.
+  
+## 👉😊 About Me
 
-💬 Outside of tech, I enjoy badminton, cooking, and spending time with friends.
+- I am Anderson Yeo, a graduate **Computer Science Junior** from the University of Nottingham! 
+- I am most skilled in Full Stack Web Development, DevOps, and Cloud
+- I am interested in learning more about Web3
 
----
+😎 Outside the tech world, I enjoy playing badminton, cooking, and hanging out with friends. <br>
 
-## 🛠 Languages & Technologies
 
-**Languages:**  
-`Python` `Java` `SQL` `Dart` `C` `PHP` `HTML` `CSS` `Haskell` `JavaScript`
+## 😶‍🌫️ Networking
+- I am currently looking for a 2025 graduate job
+- I am also looking to collaborate on web development projects
+- Connect with me down below! <br>
 
-**Frameworks:**  
-`Flutter` `React` `Next.js` `Tailwind CSS` `Firebase` `TensorFlow`
+## 📲🤙Connect with me!
+Personal Portfolio: https://andersonyeoportfolio.vercel.app/ <br>
+GitHub: https://github.com/andersonnyeo <br>
+LinkedIn: https://www.linkedin.com/in/andersonnyeo
 
-**ML Libraries / Toolkits:**  
-`pandas` `NumPy` `PyTorch` `scikit-learn` `Matplotlib` `Transformers` `NLTK` `OpenCV`
 
-**Tools & Platforms:**  
-`Git` `GitHub` `Vercel` `VS Code` `Power BI` `Excel` `Tableau` `PowerPoint`
 
-**Databases:**  
-`MySQL` `Firebase`
 
----
 
-## 🌐 Networking & Collaboration
-- Seeking **2025 graduate opportunities** in software, AI, or full-stack development.
-- Open to collaborating on **web development projects**.
 
-📌 **Connect with me:**  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://andersonyeoportfolio.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andersonnyeo)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonnyeo)
 
----
+
+
+
