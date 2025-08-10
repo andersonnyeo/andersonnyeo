@@ -1,5 +1,3 @@
-﻿# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
- 
 # Anderson Yeo
 🎓  | BSc Computer Science with Artificial Intelligence (2025) <br>
 📧  | @andersonsoonkai@gmail.com <br>
@@ -41,6 +39,7 @@ Languages and Technologies: <br>
 ## 📲🤙Connect with me!
 GitHub: https://github.com/andersonnyeo 
 LinkedIn: https://www.linkedin.com/in/andersonnyeo
+
 
 
 
