@@ -10,7 +10,7 @@ Languages and Technologies: <br>
 - Frameworks: Flutter, React/Next.js, Firebase, TensorFlow, Firebase
 - ML libraries/ toolkits: pandas, numpy, pytorch, sklearn, matplotlib, transformers, nltk
 - Tools & Platforms: Git, Github, Vercel, VS Code
-- Databases: MySQL, Firebase
+- Databases: MySQL, Firebase <br>
 
   
 ## 👉😊 About Me
@@ -19,18 +19,19 @@ Languages and Technologies: <br>
 - I am most skilled in Full Stack Web Development, DevOps, and Cloud
 - I am interested in learning more about Web3
 
-😎 Outside the tech world, I enjoy playing badminton, cooking, and hanging out with friends.
+😎 Outside the tech world, I enjoy playing badminton, cooking, and hanging out with friends. <br>
 
 
 ## 😶‍🌫️ Networking
 - I am currently looking for a 2025 graduate job
 - I am also looking to collaborate on web development projects
-- Connect with me down below!
+- Connect with me down below! <br>
 
 ## 📲🤙Connect with me!
 Personal Portfolio: https://andersonyeoportfolio.vercel.app/ <br>
 GitHub: https://github.com/andersonnyeo <br>
 LinkedIn: https://www.linkedin.com/in/andersonnyeo
+
 
 
 
