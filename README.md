@@ -6,13 +6,15 @@
 Welcome to my GitHub! See my repositories for my work from university, online courses and personal projects. <br>
 Languages and Technologies: <br>
 
+
+## 🛠 Languages & Technologies
 - Languages: Python, Java, SQL, Dart, C, PHP, HTML, CSS, Haskell, JavaScript
 - Frameworks: Flutter, React, Next.js, Tailwind CSS, Firebase, TensorFlow
 - ML libraries/ toolkits: pandas, NumPy, PyTorch, scikit-learn, Matplotlib, Transformers, NLTK, OpenCV
 - Tools & Platforms: Git, GitHub, Vercel, VS Code, Power BI, Excel, Tableau, PowerPoint
 - Databases: MySQL, Firebase 
 
----
+
   
 ## 👨‍💻 About Me  
 
@@ -22,7 +24,7 @@ Languages and Technologies: <br>
 
 💬 Outside of tech, I enjoy badminton, cooking, and spending time with friends.  
 
----
+
 
 ## 🤝 Networking & Collaboration  
 - Actively seeking **graduate opportunities** in software engineering, AI development, or full-stack development.  
@@ -30,15 +32,18 @@ Languages and Technologies: <br>
 - Connect with me down below! <br>
 
 📌 **Connect with me:**  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://andersonyeoportfolio.vercel.app/)  
+
 Personal Portfolio: https://andersonyeoportfolio.vercel.app/ <br>
 GitHub: https://github.com/andersonnyeo <br>
 LinkedIn: https://www.linkedin.com/in/andersonnyeo
 
----
+
 
 ## 📊 GitHub Stats  
 ![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonnyeo&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonnyeo&layout=compact&theme=tokyonight)  
+
 
 
 
