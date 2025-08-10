@@ -1,5 +1,20 @@
 ﻿# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+ 
+# Anderson Yeo
+🎓  | BSc Computer Science with Artificial Intelligence (2025) <br>
+📧  | @andersonsoonkai@gmail.com <br>
+📍  | Based in Nottingham, UK <br>
 
+Welcome to my GitHub! See my repositories for my work from university, online courses and personal projects. <br>
+Languages and Technologies: <br>
+
+- Languages: Python, Dart, JavaScript, HTML, CSS, SQL, Java, C
+- Frameworks: Flutter, React/Next.js, Firebase, TensorFlow, Firebase
+- ML libraries/ toolkits: pandas, numpy, pytorch, sklearn, matplotlib, transformers, nltk
+- Tools & Platforms: Git, Github, Vercel, VS Code
+- Databases: MySQL, Firebase
+
+  
 ## 👉😊 About Me
 
 - I am Anderson Yeo, a graduate **Computer Science Junior** from the University of Nottingham! 
@@ -26,5 +41,6 @@
 ## 📲🤙Connect with me!
 GitHub: https://github.com/andersonnyeo 
 LinkedIn: https://www.linkedin.com/in/andersonnyeo
+
 
 
