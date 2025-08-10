@@ -4,10 +4,8 @@
 📍  | Based in Nottingham, UK <br>
 
 Welcome to my GitHub! See my repositories for my work from university, online courses and personal projects. <br>
+Languages and Technologies: <br>
 
-
-
-## 🛠 Languages & Technologies
 - Languages: Python, Java, SQL, Dart, C, PHP, HTML, CSS, Haskell, JavaScript
 - Frameworks: Flutter, React, Next.js, Tailwind CSS, Firebase, TensorFlow
 - ML libraries/ toolkits: pandas, NumPy, PyTorch, scikit-learn, Matplotlib, Transformers, NLTK, OpenCV
@@ -42,6 +40,7 @@ LinkedIn: https://www.linkedin.com/in/andersonnyeo
 ## 📊 GitHub Stats  
 ![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonnyeo&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonnyeo&layout=compact&theme=tokyonight)  
+
 
 
 
