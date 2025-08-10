@@ -1,5 +1,5 @@
 # Anderson Yeo
-🎓  | BSc Computer Science with Artificial Intelligence (2025) <br>
+🎓  | BSc (Hons) Computer Science with Artificial Intelligence (2025) <br>
 📧  | @andersonsoonkai@gmail.com <br>
 📍  | Based in Nottingham, UK <br>
 
@@ -31,6 +31,7 @@ Languages and Technologies: <br>
 Personal Portfolio: https://andersonyeoportfolio.vercel.app/ <br>
 GitHub: https://github.com/andersonnyeo <br>
 LinkedIn: https://www.linkedin.com/in/andersonnyeo
+
 
 
 
