@@ -28,9 +28,10 @@ Languages and Technologies: <br>
 - Connect with me down below!
 
 ## 📲🤙Connect with me!
-Personal Portfolio: https://andersonyeoportfolio.vercel.app/
-GitHub: https://github.com/andersonnyeo 
+Personal Portfolio: https://andersonyeoportfolio.vercel.app/ <br>
+GitHub: https://github.com/andersonnyeo <br>
 LinkedIn: https://www.linkedin.com/in/andersonnyeo
+
 
 
 
