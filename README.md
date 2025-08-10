@@ -12,25 +12,33 @@ Languages and Technologies: <br>
 - Tools & Platforms: Git, GitHub, Vercel, VS Code, Power BI, Excel, Tableau, PowerPoint
 - Databases: MySQL, Firebase 
 
+---
   
-## 👉😊 About Me
+## 👨‍💻 About Me  
 
-- I am Anderson Yeo, a graduate **Computer Science Junior** from the University of Nottingham! 
-- I am most skilled in Full Stack Web Development, DevOps, and Cloud
-- I am interested in learning more about Web3
+- Recent **Computer Science graduate** specializing in **Full Stack Development**, **DevOps**, and **Cloud Computing**.  
+- Experienced in building AI-powered applications and integrating machine learning into real-world systems.  
+- Currently exploring **Web3** technologies.  
 
-😎 Outside the tech world, I enjoy playing badminton, cooking, and hanging out with friends. <br>
+💬 Outside of tech, I enjoy badminton, cooking, and spending time with friends.  
 
+---
 
-## 😶‍🌫️ Networking
-- I am currently looking for a 2025 graduate job
-- I am also looking to collaborate on web development projects
+## 🤝 Networking & Collaboration  
+- Actively seeking **graduate opportunities** in software engineering, AI development, or full-stack development.  
+- Open to collaborating on **web development and AI projects**.  
 - Connect with me down below! <br>
 
-## 📲🤙Connect with me!
+📌 **Connect with me:**  
 Personal Portfolio: https://andersonyeoportfolio.vercel.app/ <br>
 GitHub: https://github.com/andersonnyeo <br>
 LinkedIn: https://www.linkedin.com/in/andersonnyeo
+
+---
+
+## 📊 GitHub Stats  
+![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonnyeo&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonnyeo&layout=compact&theme=tokyonight)  
 
 
 
