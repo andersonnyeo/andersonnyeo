@@ -6,10 +6,10 @@
 Welcome to my GitHub! See my repositories for my work from university, online courses and personal projects. <br>
 Languages and Technologies: <br>
 
-- Languages: Python, Dart, JavaScript, HTML, CSS, SQL, Java, C
-- Frameworks: Flutter, React/Next.js, Firebase, TensorFlow, Firebase
+- Languages: Python, SQL, Dart, JavaScript, HTML, CSS, SQL, Java, C
+- Frameworks: Flutter, React/Next.js, Tailwind CSS, Firebase, TensorFlow, Firebase
 - ML libraries/ toolkits: pandas, numpy, pytorch, sklearn, matplotlib, transformers, nltk
-- Tools & Platforms: Git, Github, Vercel, VS Code
+- Tools & Platforms: Git, Github, Vercel, VS Code, Power BI
 - Databases: MySQL, Firebase <br>
 
   
@@ -31,6 +31,7 @@ Languages and Technologies: <br>
 Personal Portfolio: https://andersonyeoportfolio.vercel.app/ <br>
 GitHub: https://github.com/andersonnyeo <br>
 LinkedIn: https://www.linkedin.com/in/andersonnyeo
+
 
 
 
