@@ -21,15 +21,6 @@ Languages and Technologies: <br>
 
 😎 Outside the tech world, I enjoy playing badminton, cooking, and hanging out with friends.
 
-## 🛠️ Skills
- 
-![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=git&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ## 😶‍🌫️ Networking
 - I am currently looking for a 2025 graduate job
@@ -37,8 +28,10 @@ Languages and Technologies: <br>
 - Connect with me down below!
 
 ## 📲🤙Connect with me!
+Personal Portfolio: https://andersonyeoportfolio.vercel.app/
 GitHub: https://github.com/andersonnyeo 
 LinkedIn: https://www.linkedin.com/in/andersonnyeo
+
 
 
 
