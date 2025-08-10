@@ -4,7 +4,7 @@
 📍  | Based in Nottingham, UK <br>
 
 Welcome to my GitHub! See my repositories for my work from university, online courses and personal projects. <br>
-Languages and Technologies: <br>
+
 
 
 ## 🛠 Languages & Technologies
@@ -32,8 +32,6 @@ Languages and Technologies: <br>
 - Connect with me down below! <br>
 
 📌 **Connect with me:**  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://andersonyeoportfolio.vercel.app/)  
-
 Personal Portfolio: https://andersonyeoportfolio.vercel.app/ <br>
 GitHub: https://github.com/andersonnyeo <br>
 LinkedIn: https://www.linkedin.com/in/andersonnyeo
@@ -43,6 +41,7 @@ LinkedIn: https://www.linkedin.com/in/andersonnyeo
 ## 📊 GitHub Stats  
 ![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonnyeo&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonnyeo&layout=compact&theme=tokyonight)  
+
 
 
 
